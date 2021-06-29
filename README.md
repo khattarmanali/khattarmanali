@@ -25,6 +25,12 @@
 <h4 align="left">Github Stats:</h4>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khattarmanali&show_icons=true&locale=en" alt="khattarmanali" /></p>
 
-<marquee behavior="scroll" direction="left">Coming together is a begining.Keeping together is progress.Working together is success. </marquee>
 
+ 
+ <marquee width="60%" direction="right" height="100px">
+ Coming together is a begining.Keeping together is progress.Working together is success. 
+	 
+</marquee>
+ 
+	
  
