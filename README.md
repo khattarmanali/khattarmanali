@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Manali khattar</h1>
 <h3 align="center">“I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. "</h3>
 
-- 🔭 I’m currently working on **javascript,html,css**
+- 🔭 I'm a ReactJs developer
 
-- 🌱 I’m currently learning **python,java,datastructure**
-
-- 🤝 I’m looking for help with **ReactJs**
+- 🤝 I’m looking for help with **NodeJs**
 
 - 👨‍💻 All of my projects are available at https://github.com/khattarmanali/khattarmanali.github.io      
 
